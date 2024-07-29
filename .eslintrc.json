@@ -1,0 +1,7 @@
+/* eslint-disable react/prop-types */
+{
+  "extends": "react-app",
+  "rules": {
+    "react/prop-types": ["off"]
+  }
+}

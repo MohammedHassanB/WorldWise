@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "28f7",
+      "cityName": "Villanueva de Sigena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-29T04:49:41.346Z",
+      "notes": "",
+      "position": {
+        "lat": "41.60855846208916",
+        "lng": "-0.0463744133577393"
+      }
+    },
+    {
+      "id": "8aee",
+      "cityName": "Sadeillan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-29T04:49:44.872Z",
+      "notes": "",
+      "position": {
+        "lat": "43.39013301696593",
+        "lng": "0.34885736495387404"
+      }
+    }
+  ]
+}
